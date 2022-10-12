@@ -20,6 +20,6 @@
     "wdio-chromedriver-service": "^6.0.1"
   },
   "dependencies": {
-    "appium": "^1.17.0"
+    "appium": "^1.22.3"
   }
 }
